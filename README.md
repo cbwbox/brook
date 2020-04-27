@@ -78,3 +78,6 @@ chmod +x /usr/local/brook-pf
 chmod +x /etc/init.d/brook-pf
 ```
 Enjoy~
+
+
+wget -qO natcfg.sh http://arloor.com/sh/iptablesUtils/natcfg.sh && bash natcfg.sh IPtable转发
